@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TouchlessMouse:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="TouchlessMouse.jar">
+      <element id="module-output" name="TouchlessMouse" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Leap_Motion/LeapSDK/LeapSDK/lib/LeapJava.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
